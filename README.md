@@ -21,3 +21,4 @@ A curated list of awesome resources for CICS developers.
 ## Videos
 
 - [IBM CICS](https://www.redbooks.ibm.com/redbooks.nsf/pages/cicsvideo) - Series of IBM Redbooks video courses addressing various aspects of using IBM CICS.
+- [Get onboard! Enterprise application development in the Cloud](https://youtu.be/8Z0GPN7Ld2w) - Overview of modern z/OS development techniques, although not specific to CICS.
