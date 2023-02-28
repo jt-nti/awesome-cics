@@ -5,9 +5,14 @@ A curated list of awesome resources for CICS developers.
 
 ## Contents
 
+- [Books](#books)
 - [Documentation](#documentation)
 - [Samples](#samples)
 - [Videos](#videos)
+
+## Books
+
+- [IBM CICS and Liberty: What You Need to Know](https://www.redbooks.ibm.com/abstracts/sg248335.html) - IBM Redbook describing how to design and implement Java web-based applications in a CICS Liberty JVM server.
 
 ## Documentation
 
