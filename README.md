@@ -5,9 +5,14 @@ A curated list of awesome resources for CICS developers.
 
 ## Contents
 
+- [Blogs](#blogs)
 - [Documentation](#documentation)
 - [Samples](#samples)
 - [Videos](#videos)
+
+## Blogs
+
+- [Trusting, in CICS Explorer](https://medium.com/@dave.nice/trusting-in-cics-explorer-338ef5a27d2c)
 
 ## Documentation
 
