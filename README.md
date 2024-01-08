@@ -9,6 +9,7 @@ A curated list of awesome resources for CICS developers.
 - [Books](#books)
 - [Documentation](#documentation)
 - [Samples](#samples)
+- [Tutorials](#tutorials)
 - [Videos](#videos)
 
 ## Blogs
@@ -27,6 +28,10 @@ A curated list of awesome resources for CICS developers.
 ## Samples
 
 - [IBM CICS on GitHub](https://cicsdev.github.io/) - Catalogue of example code from IBM.
+
+## Tutorials
+
+- [Spring Boot Java applications for CICS](https://developer.ibm.com/series/learning-path-spring-boot-java-applications-for-cics/) - IBM Developer tutorial series designed to get you up to speed with the usage of Java and Spring Boot in CICS Liberty. 
 
 ## Videos
 
